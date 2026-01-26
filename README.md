@@ -86,7 +86,7 @@ Este es un esquema general. Es posible que se tengan que hacer pequeños ajustes
 | Actividad                            |  Porcentaje |
 |--------------------------------------|-------------|
 | 2 talleres prácticos en clase        |    33%      |
-| Quices Quices (al menos 4)           |    33%      |
+| Quices (al menos 4)           |    33%      |
 | Evaluación oral del proyecto final   |    34%      |
 
 
