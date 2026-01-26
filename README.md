@@ -1,4 +1,4 @@
-[View the detailed documentation](documentation.md.html)
+[View the detailed documentation](Syllabus.md.html)
 
 # Programa de asignatura
 
