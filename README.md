@@ -1,5 +1,5 @@
 <meta lang="es" charset="utf-8">
-<big>**Programa de asignatura**</big>
+<big>*Programa de asignatura*</big>
 
 <big>Herramientas de programación</big>
 
