@@ -1,9 +1,7 @@
 <meta lang="es" charset="utf-8">
-<big>Programa de asignatura</big>
-
-<big>Herramientas de programación</big>
-
-Período académico: 2026-10
+# Programa de asignatura
+# Herramientas de programación
+# Período académico: 2026-10
 
 
 ## Información del curso
