@@ -94,9 +94,7 @@ Este es un esquema general. Es posible que se tengan que hacer pequeños ajustes
 - El proyecto final se realizará de acuerdo a especificaciones dadas por el profesor. El profesor establecerá un problema o desafío que los estudiantes deben resolver.
 - El estudiante debe cumplir con su compromiso de preparar las lecturas antes de clase.
 - El profesor está siempre dispuesto a solucionar dudas, pero no a dar respuestas. Se espera un aprendizaje autónomo y que el estudiante sea capaz de enfrentar las dificultades de los problemas de los ejercicios / quices / talleres sin esperar que el profesor le brinde parciamente (o totalmente) las respuestas.
-
-!!! ERROR: Advertencia
-    La copia es una falta ética y será castigada de acuerdo con el reglamento establecido por la universidad.
+- La copia es una falta ética y será castigada de acuerdo con el reglamento establecido por la universidad.
 
 ## Bibliografía 
 - Downey, A. B.  (2024). Think Python: How to Think Like a Computer Scientist, 3rd edition.  O’Really media. Disponible en https://allendowney.github.io/ThinkPython/ 
