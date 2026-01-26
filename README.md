@@ -1,6 +1,8 @@
 <meta lang="es" charset="utf-8">
 <big>Programa de asignatura</big>
+
 <big>Herramientas de programación</big>
+
 Período académico: 2026-10
 
 
@@ -104,6 +106,3 @@ Este es un esquema general. Es posible que se tengan que hacer pequeños ajustes
 - Python Software Foundation (2025). Python Tutorial. Disponible en   https://docs.python.org/3/tutorial/index.html 
 
 - Matthes, E. (2023). Python crash course: A hands-on, project-based introduction to programming. No starch press (texto complementario)
-
-<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://morgan3d.github.io/markdeep/latest/markdeep.min.js?" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
-
